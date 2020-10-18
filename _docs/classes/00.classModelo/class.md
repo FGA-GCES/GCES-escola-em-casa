@@ -1,15 +1,57 @@
-# Aula Modelo (nome da aula)
+# Sprint 1
 
-A ideia dessa pagina é conseguir organizar a aula em tópicos para deixá-la mais intuitiva.
+A sprint foi focada em entender e rodar o projeto. Além disso, começamos a pegar as issues já mapeadas pelos responsáveis do projeto.
 
-## Topico 1
+## Issues planejadas
 
-varios assuntos...
+| Issues                          | Responsável   | Plataforma |
+| ------------------------------- | ------------- | ---------- |
+| CI (danger + lint) - github.com | Miguel        | iOS        |
+| Onboarding - Tutorial           | Marco Antônio | android    |
+| Landing Page                    | Esio          | Web        |
+| Redesenhar página FAQ           | Mateus O.     | android    |
+| Onboarding - Tutorial           | Miguel        | IOS        |
 
-## Topico 2
+## Riscos
 
-varios assuntos...
+- Adaptabilidade a tecnologia
+- Comunicação
+- Alinhamento com projeto open source
+- iOS - Ausência de mac's para todos os desenvolvedores
 
-## Referências e outros links
+## Review
 
-- [Nome da referência ou do link](https://www.google.com.br/)
+| Issues                          | Responsável   | status            | Plataforma |
+| ------------------------------- | ------------- | ----------------- | ---------- |
+| CI (danger + lint) - github.com | Miguel        | In review         | iOS        |
+| Onboarding - Tutorial           | Marco Antônio | In progress       | android    |
+| Landing Page                    | Esio          | In progress       | Web        |
+| Prototipo Landing Page          | Esio          | Done              | Web        |
+| Docker Landing Page             | Esio          | In review         | Web        |
+| Templates issues e pr           | Esio          | In review         | iOS        |
+| Redesenhar página FAQ           | Mateus O.     | In review         | android    |
+| Onboarding - Tutorial           | Miguel        | In review/blocked | iOS        |
+
+## Lista de issues por responsável
+
+| Responsável     | Issues                                                              |                                                                        |                                                                        |
+| --------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Miguel Pimentel | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7         | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/8            |                                                                        |
+| Marco Antônio   | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/30  |                                                                        |                                                                        |
+| Esio            | https://github.com/Escola-em-Casa/resources-escola-em-casa/issues/1 | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/issues/2 | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/issues/3 |
+
+## Lista de PR por responsável
+
+| Responsável     | PRs                                                              |                                                                      |     |
+| --------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- | --- |
+| Miguel Pimentel | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7      | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/8          |     |
+| Esio            | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/3      | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4 |     |
+| Mateus Oliveira | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/37 |                                                                      |     |
+
+## Dificuldades Encontradas
+
+- Conhecimento com as tecnologias
+- Adaptação com EAD
+- Definição de issues
+- Despadronização do projeto
+- Error no build pela CI

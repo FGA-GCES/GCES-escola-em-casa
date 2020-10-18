@@ -1,3 +1,13 @@
-# tmp class
+# Sprint 2
 
-Essa página serve para mostrar como vai ficar o sidebar e a hierarquia de paginas do site
+## Issues planejadas
+
+## Riscos
+
+## Review
+
+## Lista de issues por responsável
+
+## Lista de PR por responsável
+
+## Dificuldades Encontradas
