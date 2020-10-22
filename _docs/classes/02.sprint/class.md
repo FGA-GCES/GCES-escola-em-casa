@@ -1,16 +1,17 @@
 # Sprint 2
 
-Na sprint 2 não tivemos um foco específico, cada pessoa escolheu uma issue disponível no repositório.
+Por causa da dificuldade com adaptação do o EAD, dificuldade com as tecnologias do projeto, tivemos que continuar com as mesmas issues planejadas na sprint 1.
 
 ## Issues planejadas
 
-| Issues                  | Responsável   | Plataforma |
-| ----------------------- | ------------- | ---------- |
-| FAQ                     | Miguel        | iOS        |
-| Coordinator             | Miguel        | iOS        |
-| Tutorial                | Marco Antônio | android    |
-| Redesenhar página FAQ   | Mateus O.     | android    |
-| Requisições por segundo | Mateus O.     | android    |
+| Issues                  | Responsável   | Plataforma  |
+| ----------------------- | ------------- | ----------- |
+| FAQ                     | Miguel        | iOS         |
+| Coordinator             | Miguel        | iOS         |
+| Tutorial                | Marco Antônio | android     |
+| Redesenhar página FAQ   | Mateus O.     | android     |
+| Requisições por segundo | Mateus O.     | android     |
+| Landing Page            | Esio          | In progress |
 
 ## Riscos
 
@@ -21,29 +22,19 @@ Na sprint 2 não tivemos um foco específico, cada pessoa escolheu uma issue dis
 
 ## Review
 
-| Issues | Responsável | status | Plataforma |
-| ------------------------------- | ------------- | ----------------- | |
-| FAQ | Miguel | | iOS |
-| Coordinator | Miguel | | iOS |
-| Tutorial | Marco Antônio | | android |
-| Redesenhar página FAQ | Mateus O. | In review | android |
-| Requisições por segundo | Mateus O. | In progress | android |
+| Issues                 | Responsável | status | Plataforma | Link                                                                                                                  |
+| ---------------------- | ----------- | ------ | ---------- | --------------------------------------------------------------------------------------------------------------------- |
+| Prototipo Landing Page | Esio        | Done   | Web        | [Prototipo](https://www.figma.com/proto/TOUk1MfAHuez3zAjuVB3Yp/Escola-em-casa?node-id=1%3A2&scaling=scale-down-width) |
 
 ## Lista de issues por responsável
 
-| Responsável     | Issues                                                              |                                                                        |                                                                        |
-| --------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| Marco Antônio   | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/30  |                                                                        |                                                                        |
-| Esio            | https://github.com/Escola-em-Casa/resources-escola-em-casa/issues/1 | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/issues/2 | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/issues/3 |
-| Mateus Oliveira | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/33  | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/31     |                                                                        |
+A comunição continuou nas issues criadas anteriormente.
 
 ## Lista de PR por responsável
 
-| Responsável     | PRs                                                              |                                                                      |     |
-| --------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- | --- |
-| Miguel Pimentel | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7      | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/8          |     |
-| Esio            | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/3      | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4 |     |
-| Mateus Oliveira | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/37 |                                                                      |     |
+| Responsável | PRs |
+| ----------- | --- |
+
 
 ## Dificuldades Encontradas
 
