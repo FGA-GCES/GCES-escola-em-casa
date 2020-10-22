@@ -2,5 +2,5 @@
 
 - [**Matéria**](/)
 - [**Sprints**](_docs/classes/home.md)
-  - [Sprint 1](_docs/classes/00.classModelo/class.md)
-  - [Sprint 2](_docs/classes/01.tmpClass/class.md)
+  - [Sprint 01](_docs/classes/01.sprint/class.md)
+  - [Sprint 02](_docs/classes/02.sprint/class.md)
