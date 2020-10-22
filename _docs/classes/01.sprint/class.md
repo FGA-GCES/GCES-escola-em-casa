@@ -25,8 +25,6 @@ A sprint foi focada em entender e rodar o projeto. Além disso, começamos a peg
 | ------------------------------- | ------------- | ----------------- | ---------- |
 | CI (danger + lint) - github.com | Miguel        | In review         | iOS        |
 | Onboarding - Tutorial           | Marco Antônio | In progress       | android    |
-| Landing Page                    | Esio          | In progress       | Web        |
-| Prototipo Landing Page          | Esio          | Done              | Web        |
 | Docker Landing Page             | Esio          | In review         | Web        |
 | Templates issues e pr           | Esio          | In review         | iOS        |
 | Redesenhar página FAQ           | Mateus O.     | In review         | android    |
