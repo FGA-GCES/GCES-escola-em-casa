@@ -1,2 +1,3 @@
-### 00. [Modelo](_docs/classes/00.classModelo/class.md)
-### 01. [TMP Class](_docs/classes/01.tmpClass/class.md)
+### [Sprint 01](_docs/classes/01.sprint/class.md)
+
+### [Sprint 02](_docs/classes/02.sprint/class.md)
