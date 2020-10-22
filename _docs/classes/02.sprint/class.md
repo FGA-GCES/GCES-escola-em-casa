@@ -9,6 +9,7 @@ Na sprint 2 não tivemos um foco específico, cada pessoa escolheu uma issue dis
 | FAQ                     | Miguel        | iOS        |
 | Coordinator             | Miguel        | iOS        |
 | Tutorial                | Marco Antônio | android    |
+| Redesenhar página FAQ   | Mateus O.     | android    |
 | Requisições por segundo | Mateus O.     | android    |
 
 ## Riscos
@@ -25,6 +26,7 @@ Na sprint 2 não tivemos um foco específico, cada pessoa escolheu uma issue dis
 | FAQ | Miguel | | iOS |
 | Coordinator | Miguel | | iOS |
 | Tutorial | Marco Antônio | | android |
+| Redesenhar página FAQ | Mateus O. | In review | android |
 | Requisições por segundo | Mateus O. | In progress | android |
 
 ## Lista de issues por responsável
@@ -33,7 +35,7 @@ Na sprint 2 não tivemos um foco específico, cada pessoa escolheu uma issue dis
 | --------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | Marco Antônio   | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/30  |                                                                        |                                                                        |
 | Esio            | https://github.com/Escola-em-Casa/resources-escola-em-casa/issues/1 | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/issues/2 | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/issues/3 |
-| Mateus Oliveira | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/33  |                                                                        |                                                                        |
+| Mateus Oliveira | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/33  | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/31     |                                                                        |
 
 ## Lista de PR por responsável
 
