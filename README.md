@@ -9,9 +9,9 @@ A plataforma “Escola em Casa DF” é a sala de aula virtual da Secretaria de 
 | 17/0033066 | Ésio Freitas    |
 |            | Gabriel Albino  |
 |            | Gabriel Alves   |
-|            | Marcos Antônio  |
+| 16/0135681 | Marcos Antônio  |
 | 16/0015006 | Mateus Oliveira |
-|            | Miguel Pimentel |
+| 14/0156143 | Miguel Pimentel |
 
 ## Como rodar
 
