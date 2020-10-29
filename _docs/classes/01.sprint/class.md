@@ -37,6 +37,7 @@ A sprint foi focada em entender e rodar o projeto. Além disso, começamos a peg
 | Miguel Pimentel | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7         | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/8            |                                                                        |
 | Marco Antônio   | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/30  |                                                                        |                                                                        |
 | Esio            | https://github.com/Escola-em-Casa/resources-escola-em-casa/issues/1 | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/issues/2 | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/issues/3 |
+| Mateus O.       | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/31  |                                                                        |                                                                        |
 
 ## Lista de PR por responsável
 

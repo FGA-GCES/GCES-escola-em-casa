@@ -4,9 +4,11 @@ Nessa sprint focamos em finalizar as issues pegas anteriormente, visto que elas 
 
 ## Issues planejadas
 
-| Issues       | Responsável | Plataforma   |
-| ------------ | ----------- | ------------ |
-| Wiki de GCES | Ésio        | Documentação |
+| Issues                         | Responsável | Plataforma   |
+| ------------------------------ | ----------- | ------------ |
+| Wiki de GCES                   | Ésio        | Documentação |
+| Requisição por segundo         | Mateus O.   | android      |
+| Enviar dados p/ elastic search | Mateus O.   | android      |
 
 ## Riscos
 
@@ -17,22 +19,25 @@ Nessa sprint focamos em finalizar as issues pegas anteriormente, visto que elas 
 
 ## Review
 
-| Issues       | Responsável | status | Plataforma | Link |
-| ------------ | ----------- | ------ | ---------- | ---- |
-| Landing page | Esio        | Done   | Web        | --   |
+| Issues                         | Responsável | status      | Plataforma | Link |
+| ------------------------------ | ----------- | ----------- | ---------- | ---- |
+| Landing page                   | Esio        | Done        | Web        | --   |
+| Requisição por segundo         | Mateus O.   | In review   | android    |      |
+| Enviar dados p/ elastic search | Mateus O.   | In Progress | android    |      |
 
 ## Lista de issues por responsável
 
-| Responsável | Issues                                                                 |
-| ----------- | ---------------------------------------------------------------------- |
-| Esio        | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/issues/5 |
-| Esio        | https://github.com/Escola-em-Casa/resources-escola-em-casa/issues/2    |
+| Responsável | Issues                                                                 |                                                                     |
+| ----------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Esio        | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/issues/5 | https://github.com/Escola-em-Casa/resources-escola-em-casa/issues/2 |
+| Mateus O.   | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/33     | https://github.com/Escola-em-Casa/android-escola-em-casa/issues/34  |
 
 ## Lista de PR por responsável
 
-| Responsável | Descrição    | PRs                                                                  |
-| ----------- | ------------ | -------------------------------------------------------------------- |
-| Esio        | Landing page | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4 |
+| Responsável | Descrição                            | PRs                                                                  |
+| ----------- | ------------------------------------ | -------------------------------------------------------------------- |
+| Esio        | Landing page                         | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4 |
+| Mateus O.   | Send http requests to elastic search | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/40     |
 
 ## Dificuldades Encontradas
 
