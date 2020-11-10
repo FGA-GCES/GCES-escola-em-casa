@@ -30,9 +30,10 @@ Nessa sprint focamos em finalizar as issues pegas anteriormente, visto que elas 
 
 ## Lista de PR por responsável
 
-| Responsável | Descrição    | PRs                                                                  |
-| ----------- | ------------ | -------------------------------------------------------------------- |
-| Esio        | Landing page | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4 |
+| Responsável | Descrição                 | PRs                                                                  |
+| ----------- | ------------------------- | -------------------------------------------------------------------- |
+| Esio        | Landing page              | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4 |
+| Esio        | Codigo de condulta Androi | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/39     |
 
 ## Dificuldades Encontradas
 
