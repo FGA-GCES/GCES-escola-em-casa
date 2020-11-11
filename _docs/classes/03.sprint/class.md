@@ -46,12 +46,13 @@ Nessa sprint focamos em finalizar as issues pegas anteriormente, visto que elas 
 
 ## Lista de PR por responsável
 
-| Responsável | Descrição                            | PRs                                                                  |
-| ----------- | ------------------------------------ | -------------------------------------------------------------------- |
-| Esio        | Landing page                         | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4 |
-| Mateus O.   | Send http requests to elastic search | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/40     |
-| Miguel P.   | Injectable Manager p/ WebView        | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7          |
-| Esio        | Refatoar about page                  | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/39     |
+| Responsável   | Descrição                            | PRs                                                                  |
+| ------------- | ------------------------------------ | -------------------------------------------------------------------- |
+| Esio          | Landing page                         | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4 |
+| Mateus O.     | Send http requests to elastic search | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/40     |
+| Miguel P.     | Injectable Manager p/ WebView        | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7          |
+| Esio          | Refatoar about page                  | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/39     |
+| Marcos e Esio | Arrumando menu                       | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/42     |
 
 ## Dificuldades Encontradas
 
