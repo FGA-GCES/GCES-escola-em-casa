@@ -21,6 +21,7 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 | --------------------------- | ----------- | ------ | ---------- |
 | Aplicar SOLID e refatoração | Esio        | Done   | Android    |
 | Aplicar SOLID e refatoração | Esio        | Done   | IOS        |
+| Aplicar SOLID e refatoração | Marco Antônio | Done   | Android    |
 
 ## Lista de issues por responsável
 
@@ -28,6 +29,7 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Esio Freitas | [Replace Magic Literal and Change Function Declaration of code](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/45) |
 | Esio Freitas | [Replace Magic Literal and remove not necessary prints](https://github.com/Escola-em-Casa/ios-escola-em-casa/issues/20)             |
+| Marco Anonio | [Mudar hardcoded xml para strings](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/46) |
 
 ## Lista de PR por responsável
 
@@ -35,6 +37,7 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | Esio Freitas | [Replace Magic Literal and Change Function Declaration of code](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/44) |
 | Esio Freitas | [Replace Magic Literal and remove not necessary prints](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/19)             |
+| Marco Anonio | [Mudando hardcoded xml para strings](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/47) |
 
 ## Dificuldades Encontradas
 
