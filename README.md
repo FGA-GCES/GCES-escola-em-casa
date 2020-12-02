@@ -7,8 +7,6 @@ A plataforma “Escola em Casa DF” é a sala de aula virtual da Secretaria de 
 | Matrícula  | Contribuidores  |
 | ---------- | --------------- |
 | 17/0033066 | Ésio Freitas    |
-|            | Gabriel Albino  |
-|            | Gabriel Alves   |
 | 16/0135681 | Marcos Antônio  |
 | 16/0015006 | Mateus Oliveira |
 | 14/0156143 | Miguel Pimentel |

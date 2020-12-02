@@ -17,13 +17,13 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 
 ## Review
 
-| Issues                      | Responsável | status | Plataforma |
-| --------------------------- | ----------- | ------ | ---------- |
-| Aplicar SOLID e refatoração | Esio        | Done   | Android    |
-| Aplicar SOLID e refatoração | Esio        | Done   | iOS        |
-| Aplicar SOLID e refatoração | Marco Antônio | Done   | Android    |
-| Aplicar Clean Code | Miguel P. | In Review   | iOS    |
-| Aplicar SOLID refatoração | Miguel P. | In Review   | iOS    |
+| Issues                      | Responsável   | status    | Plataforma |
+| --------------------------- | ------------- | --------- | ---------- |
+| Aplicar SOLID e refatoração | Esio          | Done      | Android    |
+| Aplicar SOLID e refatoração | Esio          | Done      | iOS        |
+| Aplicar SOLID e refatoração | Marco Antônio | Done      | Android    |
+| Aplicar Clean Code          | Miguel P.     | In Review | iOS        |
+| Aplicar SOLID refatoração   | Miguel P.     | In Review | iOS        |
 
 ## Lista de issues por responsável
 
@@ -31,9 +31,9 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Esio Freitas | [Replace Magic Literal and Change Function Declaration of code](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/45) |
 | Esio Freitas | [Replace Magic Literal and remove not necessary prints](https://github.com/Escola-em-Casa/ios-escola-em-casa/issues/20)             |
-| Marco Anonio | [Mudar hardcoded xml para strings](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/46) |
-| Miguel P. | [Refactoring Clean Code](https://github.com/Escola-em-Casa/ios-escola-em-casa/issues/21) |
-| Miguel P. | [Refactoring SOLID](https://github.com/Escola-em-Casa/ios-escola-em-casa/issues/24) |
+| Marco Anonio | [Mudar hardcoded xml para strings](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/46)                              |
+| Miguel P.    | [Refactoring Clean Code](https://github.com/Escola-em-Casa/ios-escola-em-casa/issues/21)                                            |
+| Miguel P.    | [Refactoring SOLID](https://github.com/Escola-em-Casa/ios-escola-em-casa/issues/24)                                                 |
 
 ## Lista de PR por responsável
 
@@ -41,9 +41,15 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | Esio Freitas | [Replace Magic Literal and Change Function Declaration of code](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/44) |
 | Esio Freitas | [Replace Magic Literal and remove not necessary prints](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/19)             |
-| Marco Anonio | [Mudando hardcoded xml para strings](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/47) |
-| Miguel P. | [Refactoring Clean Code](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/22) |
-| Miguel P. | [Refactoring SOLID](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/23) |
+| Marco Anonio | [Mudando hardcoded xml para strings](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/47)                            |
+| Miguel P.    | [Refactoring Clean Code](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/22)                                            |
+| Miguel P.    | [Refactoring SOLID](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/23)                                                 |
+
+## Lista de commits criados por responsável
+
+| Responsável | commits individuais | commits pareamento |
+| ----------- | ------------------- | ------------------ |
+| Esio        | 7                   | 0                  |
 
 ## Dificuldades Encontradas
 
@@ -52,4 +58,5 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 - Despadronização do projeto
 - Error no build pela CI (Android)
 - Error de privacidade do Github actions - quebra do CI (iOS)
-- Erro capabilities do 
+- Erro capabilities do
+- Comunidade parou de responder

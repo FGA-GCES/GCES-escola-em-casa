@@ -38,6 +38,12 @@ A comunição continuou nas issues criadas anteriormente.
 | ----------- | --------------------------------------------------------------------------------------------------------------------- |
 | Esio        | [Prototipo](https://www.figma.com/proto/TOUk1MfAHuez3zAjuVB3Yp/Escola-em-casa?node-id=1%3A2&scaling=scale-down-width) |
 
+## Lista de commits criados por responsável
+
+| Responsável | commits individuais | commits pareamento |
+| ----------- | ------------------- | ------------------ |
+| Esio        | 2                   | 0                  |
+
 ## Dificuldades Encontradas
 
 - Afinidade com as tecnologiass

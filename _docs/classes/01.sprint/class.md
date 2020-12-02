@@ -1,6 +1,6 @@
 # Sprint 1
 
-A sprint foi focada em entender e rodar o projeto. Além disso, começamos a pegar as issues já mapeadas pelos responsáveis do projeto.
+A sprint foi focada em entender a ideia do projeto e a rodá-lo. Além disso, começamos a pegar as issues já mapeadas pelos responsáveis do projeto.
 
 ## Issues planejadas
 
@@ -8,7 +8,7 @@ A sprint foi focada em entender e rodar o projeto. Além disso, começamos a peg
 | ------------------------------- | ------------- | ---------- |
 | CI (danger + lint) - github.com | Miguel        | iOS        |
 | Onboarding - Tutorial           | Marco Antônio | android    |
-| Landing Page                    | Esio          | Web        |
+| Landing Page (prototipo)        | Esio          | Web        |
 | Redesenhar página FAQ           | Mateus O.     | android    |
 | Onboarding - Tutorial           | Miguel        | IOS        |
 
@@ -46,6 +46,12 @@ A sprint foi focada em entender e rodar o projeto. Além disso, começamos a peg
 | Miguel Pimentel | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7      | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/8          |     |
 | Esio            | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/3      | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4 |     |
 | Mateus Oliveira | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/37 |                                                                      |     |
+
+## Lista de commits criados por responsável
+
+| Responsável | commits individuais | commits pareamento |
+| ----------- | ------------------- | ------------------ |
+| Esio        | 4                   | 0                  |
 
 ## Dificuldades Encontradas
 

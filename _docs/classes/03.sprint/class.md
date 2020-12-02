@@ -53,11 +53,18 @@ Nessa sprint focamos em finalizar as issues pegas anteriormente, visto que elas 
 | Miguel P.     | Injectable Manager p/ WebView        | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7          |
 | Esio          | Refatoar about page                  | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/39     |
 | Marcos e Esio | Arrumando menu                       | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/42     |
+| Esio          | Wiki GCES                            | https://github.com/FGA-GCES/GCES-escola-em-casa/                     |
+
+## Lista de commits criados por responsável
+
+| Responsável | commits individuais | commits pareamento |
+| ----------- | ------------------- | ------------------ |
+| Esio        | 10                  | 3                  |
 
 ## Dificuldades Encontradas
 
 - Afinidade com as tecnologiass
 - Definição de issues
 - Despadronização do projeto
-- Error no build pela CI (Android)
 - Comunicação da equipe
+- Comunidade parou de responder
