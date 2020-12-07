@@ -34,6 +34,9 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 | Marco Anonio | [Mudar hardcoded xml para strings](https://github.com/Escola-em-Casa/android-escola-em-casa/issues/46)                              |
 | Miguel P.    | [Refactoring Clean Code](https://github.com/Escola-em-Casa/ios-escola-em-casa/issues/21)                                            |
 | Miguel P.    | [Refactoring SOLID](https://github.com/Escola-em-Casa/ios-escola-em-casa/issues/24)                                                 |
+| Miguel P.    | [Componente de Loading](https://github.com/Escola-em-Casa/ios-escola-em-casa/issues/25)                                             |
+| Miguel P.    | [Factory para WebView Controller](https://github.com/Escola-em-Casa/ios-escola-em-casa/issues/26)                                   |
+| Miguel P.    | [Busca de perguntas no FAQ](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/23)                                           | 
 
 ## Lista de PR por responsável
 
@@ -44,6 +47,9 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 | Marco Anonio | [Mudando hardcoded xml para strings](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/47)                            |
 | Miguel P.    | [Refactoring Clean Code](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/22)                                            |
 | Miguel P.    | [Refactoring SOLID](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/23)                                                 |
+| Miguel P.    | [Componente de Loading](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/29)                                             |
+| Miguel P.    | [Factory para WebView Controller](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/27)                                   |
+| Miguel P.    | [Busca de perguntas no FAQ](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/28)                                         |
 
 ## Lista de commits criados por responsável
 
