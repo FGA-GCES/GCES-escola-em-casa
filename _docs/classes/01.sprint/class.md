@@ -52,6 +52,7 @@ A sprint foi focada em entender a ideia do projeto e a rodá-lo. Além disso, co
 | Responsável | commits individuais | commits pareamento |
 | ----------- | ------------------- | ------------------ |
 | Esio        | 4                   | 0                  |
+| Miguel      | 12                  | 0                  |
 
 ## Dificuldades Encontradas
 

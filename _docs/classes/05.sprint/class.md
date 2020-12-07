@@ -50,6 +50,7 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 | Responsável | commits individuais | commits pareamento |
 | ----------- | ------------------- | ------------------ |
 | Esio        | 7                   | 0                  |
+| Miguel      | 12                  | 0                  |
 
 ## Dificuldades Encontradas
 

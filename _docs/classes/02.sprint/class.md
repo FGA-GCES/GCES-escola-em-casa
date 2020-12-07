@@ -43,6 +43,7 @@ A comunição continuou nas issues criadas anteriormente.
 | Responsável | commits individuais | commits pareamento |
 | ----------- | ------------------- | ------------------ |
 | Esio        | 2                   | 0                  |
+| Miguel      | 23                  | 0                  |
 
 ## Dificuldades Encontradas
 

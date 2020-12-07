@@ -60,6 +60,7 @@ Nessa sprint focamos em finalizar as issues pegas anteriormente, visto que elas 
 | Responsável | commits individuais | commits pareamento |
 | ----------- | ------------------- | ------------------ |
 | Esio        | 10                  | 3                  |
+| Miguel      | 4                   | 0                  |
 
 ## Dificuldades Encontradas
 
