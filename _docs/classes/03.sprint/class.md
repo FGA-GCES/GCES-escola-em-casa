@@ -61,6 +61,8 @@ Nessa sprint focamos em finalizar as issues pegas anteriormente, visto que elas 
 | ----------- | ------------------- | ------------------ |
 | Esio        | 10                  | 3                  |
 | Miguel      | 4                   | 0                  |
+| Marco Antonio| 0                   | 3                  |
+
 
 ## Dificuldades Encontradas
 

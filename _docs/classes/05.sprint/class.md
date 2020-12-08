@@ -57,6 +57,7 @@ Sprint planejada para aplicar tecnicas de refatoração e SOLID. Foi usado o sit
 | ----------- | ------------------- | ------------------ |
 | Esio        | 7                   | 0                  |
 | Miguel      | 12                  | 0                  |
+| Marco Antonio| 4                   | 0                  |
 
 ## Dificuldades Encontradas
 

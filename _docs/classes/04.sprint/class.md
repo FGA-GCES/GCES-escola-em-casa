@@ -47,6 +47,7 @@ Obs: Para iOS essa sprint foi de junção de várias funcionalidades prontas. Mu
 | ----------- | ------------------- | ------------------ |
 | Esio        | 0                   | 3                  |
 | Miguel      | 1                   | 0                  |
+| Marco Antonio| 0                   | 0                  |
 
 
 Obs: Na parte do iOS foram realizados muitos commits de resolução de conflitos, entretanto não foram contabilizados por não fazerem parte de funcionalidades ou melhorias técnicas.

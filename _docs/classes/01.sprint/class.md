@@ -53,6 +53,7 @@ A sprint foi focada em entender a ideia do projeto e a rodá-lo. Além disso, co
 | ----------- | ------------------- | ------------------ |
 | Esio        | 4                   | 0                  |
 | Miguel      | 12                  | 0                  |
+| Marco Antonio| 0                   | 0                  |
 
 ## Dificuldades Encontradas
 

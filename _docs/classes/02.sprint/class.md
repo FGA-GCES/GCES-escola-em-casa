@@ -46,6 +46,7 @@ A comunição continuou nas issues criadas anteriormente.
 | ----------- | ------------------- | ------------------ |
 | Esio        | 2                   | 0                  |
 | Miguel      | 23                  | 0                  |
+| Marco Antonio| 10                   | 0                  |
 
 ## Dificuldades Encontradas
 
