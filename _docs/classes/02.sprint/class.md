@@ -6,8 +6,8 @@ Por causa da dificuldade com adaptação do o EAD, dificuldade com as tecnologia
 
 | Issues                 | Responsável   | Plataforma |
 | ---------------------- | ------------- | ---------- |
-| FAQ                    | Miguel        | iOS        |
-| Coordinator            | Miguel        | iOS        |
+| FAQ                    | Miguel P.     | iOS        |
+| Coordinator            | Miguel P.     | iOS        |
 | Tutorial               | Marco Antônio | android    |
 | Redesenhar página FAQ  | Mateus O.     | android    |
 | Requisição por segundo | Mateus O.     | android    |
@@ -27,6 +27,8 @@ Por causa da dificuldade com adaptação do o EAD, dificuldade com as tecnologia
 | Prototipo Landing Page | Esio        | Done        | Web        |
 | Redesenhar página FAQ  | Mateus O.   | In review   | android    |
 | Requisição por segundo | Mateus O.   | In Progress | android    |
+| FAQ                    | Miguel P.   | iOS         | iOS        |
+| Coordinator            | Miguel P.   | iOS         | iOS        |
 
 ## Lista de issues por responsável
 
