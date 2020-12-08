@@ -29,6 +29,7 @@ Por causa da dificuldade com adaptação do o EAD, dificuldade com as tecnologia
 | Requisição por segundo | Mateus O.   | In Progress | android    |
 | FAQ                    | Miguel P.   | iOS         | iOS        |
 | Coordinator            | Miguel P.   | iOS         | iOS        |
+| Tutorial               | Marco Antônio | Done      | android    |
 
 ## Lista de issues por responsável
 
@@ -39,6 +40,7 @@ A comunição continuou nas issues criadas anteriormente.
 | Responsável | PRs                                                                                                                   |
 | ----------- | --------------------------------------------------------------------------------------------------------------------- |
 | Esio        | [Prototipo](https://www.figma.com/proto/TOUk1MfAHuez3zAjuVB3Yp/Escola-em-casa?node-id=1%3A2&scaling=scale-down-width) |
+| Marco Antônio | [Tutorial](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/38) |
 
 ## Lista de commits criados por responsável
 
