@@ -41,19 +41,19 @@ A sprint foi focada em entender a ideia do projeto e a rodá-lo. Além disso, co
 
 ## Lista de PR por responsável
 
-| Responsável     | PRs                                                              |                                                                      |     |
-| --------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- | --- |
-| Miguel Pimentel | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7      | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/8          |     |
-| Esio            | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/3      | https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4 |     |
-| Mateus Oliveira | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/37 |                                                                      |     |
+| Responsável     | PRs                                                                                    |                                                                                                   |     |
+| --------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --- |
+| Miguel Pimentel | [CI com análise estática](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7) | [User Onboarding](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/8)                    |     |
+| Esio            | [Add github templates](https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/3)    | [docker configs on project](https://github.com/Escola-em-Casa/landing-page-escola-em-casa/pull/4) |     |
+| Mateus Oliveira | [Remodel FAQ](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/37)        |                                                                                                   |     |
 
 ## Lista de commits criados por responsável
 
-| Responsável | commits individuais | commits pareamento |
-| ----------- | ------------------- | ------------------ |
-| Esio        | 4                   | 0                  |
-| Miguel      | 12                  | 0                  |
-| Marco Antonio| 0                   | 0                  |
+| Responsável   | commits individuais | commits pareamento |
+| ------------- | ------------------- | ------------------ |
+| Esio          | 4                   | 0                  |
+| Miguel        | 12                  | 0                  |
+| Marco Antonio | 0                   | 0                  |
 
 ## Dificuldades Encontradas
 
