@@ -40,7 +40,7 @@ A comunição continuou nas issues criadas anteriormente.
 | Responsável | PRs                                                                                                                   |
 | ----------- | --------------------------------------------------------------------------------------------------------------------- |
 | Esio        | [Prototipo](https://www.figma.com/proto/TOUk1MfAHuez3zAjuVB3Yp/Escola-em-casa?node-id=1%3A2&scaling=scale-down-width) |
-| Marco Antônio | [Tutorial](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/38) |
+| Marco Antônio| [Tutorial](https://github.com/Escola-em-Casa/android-escola-em-casa/pull/38) |
 
 ## Lista de commits criados por responsável
 
