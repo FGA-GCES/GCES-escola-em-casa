@@ -52,16 +52,15 @@ Nessa sprint focamos em finalizar as issues pegas anteriormente, visto que elas 
 | Mateus O.     | Send http requests to elastic search | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/40     |
 | Miguel P.     | Injectable Manager p/ WebView        | https://github.com/Escola-em-Casa/ios-escola-em-casa/pull/7          |
 | Esio          | Refatoar about page                  | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/39     |
-| Marcos e Esio | Arrumando menu                       | https://github.com/Escola-em-Casa/android-escola-em-casa/pull/42     |
 | Esio          | Wiki GCES                            | https://github.com/FGA-GCES/GCES-escola-em-casa/                     |
 
 ## Lista de commits criados por responsável
 
 | Responsável | commits individuais | commits pareamento |
 | ----------- | ------------------- | ------------------ |
-| Esio        | 10                  | 3                  |
+| Esio        | 10                  | 0                  |
 | Miguel      | 4                   | 0                  |
-| Marco Antonio| 0                   | 3                  |
+| Marco Antonio| 0                   | 0                 |
 
 
 ## Dificuldades Encontradas
